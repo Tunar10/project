@@ -1,1 +1,19 @@
-/* No CSS *//*# sourceMappingURL=0.1.css.map */
+body {
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -ms-flex-item-align: center;
+      align-self: center;
+  margin: auto;
+}
+
+body h1 {
+  color: red;
+}
+/*# sourceMappingURL=0.1.css.map */
